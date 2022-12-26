@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, I'm Devika Singh</h1>
 <h3 align="center">I am a Sophomore at Indian Institute of Technology Guwahati [ IITG ] majoring in Computer Science and Engineering [ CSE ]</h3>
-<img align="left" alt="AwesomeDp" width="400" src="[https://i.pinimg.com/564x/8f/85/1b/8f851b47146c90ca96ab896e5828e995.jpg](https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif)">
+<img align="left" alt="AwesomeDp" width="400" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devika-singh" alt="devika-singh" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails**
