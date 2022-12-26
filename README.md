@@ -3,7 +3,7 @@
 <h3 align="center">I am a Sophomore at Indian Institute of Technology Guwahati [ IITG ] <br>Majoring in Computer Science and Engineering [ CSE ]</h3>
 <img align="right" alt="AwesomeDp" width="400" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif">
 
-<br><br>
+<br><br><br>
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Anything...**
