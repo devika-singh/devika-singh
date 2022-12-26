@@ -1,57 +1,9 @@
-<div class="header" > <h1>If you are <br>
-  <span class="mag">
-    <span class="star">
-      <svg viewBox="0 0 512 512">
-      <path d="M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z" />
-      </svg>
-    </span>
-    
-    <span class="star">
-      <svg viewBox="0 0 512 512">
-      <path d="M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z" />
-      </svg>
-    </span>
-  <span class="text">
-    bad
-  </span>
-    
-    <span class="star">
-      <svg viewBox="0 0 512 512">
-      <path d="M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z" />
-      </svg>
-    </span>
-  </span>
-  <br> Then<br> 
-  <span class="mag">
-    <span class="star">
-      <svg viewBox="0 0 512 512">
-      <path d="M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z" />
-      </svg>
-    </span>
-    
-  <span class="text">
-    I am your</span> 
-    <span class="star">
-      <svg viewBox="0 0 512 512">
-      <path d="M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z" />
-      </svg>
-    </span>
-    <span class="text">dad</span>
-  
-    
-    <span class="star">
-      <svg viewBox="0 0 512 512">
-      <path d="M512 255.1c0 11.34-7.406 20.86-18.44 23.64l-171.3 42.78l-42.78 171.1C276.7 504.6 267.2 512 255.9 512s-20.84-7.406-23.62-18.44l-42.66-171.2L18.47 279.6C7.406 276.8 0 267.3 0 255.1c0-11.34 7.406-20.83 18.44-23.61l171.2-42.78l42.78-171.1C235.2 7.406 244.7 0 256 0s20.84 7.406 23.62 18.44l42.78 171.2l171.2 42.78C504.6 235.2 512 244.6 512 255.1z" />
-      </svg>
-    </span>
-    </span>
-    </h1>
-  </div>
+![MasterHead](https://i.pinimg.com/originals/28/2d/7d/282d7d14a8b622dbff8cc0c43a5539fa.gif)
 <h1 align="center">Yo 👋, I'm Devika Singh</h1>
 <h3 align="center">I am a Sophomore at Indian Institute of Technology Guwahati [ IITG ] majoring in Computer Science and Engineering [ CSE ]</h3>
-<img align="left" alt="AwesomeDp" width="400" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devika-singh" alt="devika-singh" /></a> </p>
+<img align="right" alt="AwesomeDp" width="400" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif">
 
+<br><br>
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Anything...**
