@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devika-singh-982436255" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="devika-singh-982436255" height="auto" width="40" /></a>
-<a href="https://instagram.com/dev.ika_singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="dev.ika_singh" height="auto" width="40" /></a>
+<!--<a href="https://instagram.com/dev.ika_singh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="dev.ika_singh" height="auto" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
