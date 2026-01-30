@@ -1,10 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/28/2d/7d/282d7d14a8b622dbff8cc0c43a5539fa.gif)](https://github.com/devika-singh/)
 <h1 align="center">Yo 👋, I'm Devika Singh</h1>
-<h3 align="center">I am a Third Yearite at Indian Institute of Technology Guwahati [ IITG ] <br>Majoring in Computer Science and Engineering [ CSE ]<br> Minor in Robotics and Artificial Intelligence</h3>
+<h3 align="center">I am a Software Engineer, with B.Tech. at Indian Institute of Technology Guwahati [ IITG ] <br>Majoring in Computer Science and Engineering [ CSE ]<br> Minor in Robotics and Artificial Intelligence</h3>
 <img align="right" alt="AwesomeDp" width="400" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif">
 
 <br><br><br>
-- 🌱 I’m currently learning **Ruby on Rails**
+# 🌱 I’m currently learning
 
 - 👯 I’m looking to collaborate on **Anything...**
 
